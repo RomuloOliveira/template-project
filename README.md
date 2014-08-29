@@ -1,4 +1,4 @@
 template-project
 ================
 
-A template project for Python Flask
+A template for any project that you want
