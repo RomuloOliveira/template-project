@@ -1,9 +1,13 @@
 template-project
 ================
 
-A template for any project that you want
+A template for any project that you want. Feel free to fork.
 
-### Structure
+## Contributing
+
+If you want to contribute, just fork and pull request
+
+## Structure
 
 
 ```
