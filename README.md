@@ -50,3 +50,13 @@ If you want to contribute, just fork and pull request
   - Directory containing *all* tests for your project.
 - **tmp**
   - Directory containing any files you want near you, but that need not be in the repository (and should not appear in git status).
+
+## Installing
+
+To "install", execute the following script:
+
+```bash
+curl https://github.com/RomuloOliveira/template-project/raw/master/setup.sh | bash -
+```
+
+**Note:** Existing files are **not** overwritted.
