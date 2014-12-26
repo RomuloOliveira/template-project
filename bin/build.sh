@@ -8,4 +8,3 @@ set -e
 
 . bin/configure.sh
 . bin/lint.sh
-

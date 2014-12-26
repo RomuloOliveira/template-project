@@ -21,9 +21,6 @@ If you want to contribute, just fork and pull request
 ├── docs
 │   ├── ...
 │   └── ...
-├── env
-│   ├── ...
-│   └── ...
 ├── project
 │   ├── ...
 │   └── ...
@@ -32,6 +29,7 @@ If you want to contribute, just fork and pull request
 │   └── ...
 ├── tmp
 │   ├── ...
+├ .env-DIST
 ├ LICENSE
 ├ Makefile
 ├ README.md
@@ -44,8 +42,6 @@ If you want to contribute, just fork and pull request
   - Directory for any config related stuff.
 - **docs**
   - Directory for documentation. I like [Markdown](https://help.github.com/articles/github-flavored-markdown) for high-level documentation.
-- **env**
-  - I like to keep my defaults enviroment variables in files. This directory contains three basics files: `devel`, `test` and `prod`. Also, in my projects, I use a *gitignored* file called `local` for custom variables.
 - **project**
   - Directory containg the *real* code for your project. Some people may rename it to *src*. I like *project* because in Python `import project.foo` makes more sense than `import src.foo`.
 - **tests**
