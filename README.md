@@ -56,7 +56,7 @@ If you want to contribute, just fork and pull request
 To "install", execute the following script:
 
 ```bash
-curl -sL https://github.com/RomuloOliveira/template-project/raw/master/setup.sh | bash -
+curl -sL https://github.com/RomuloOliveira/template-project/raw/0.1.0/setup.sh | bash -
 ```
 
 **Note:** Existing files are **not** overwritted.
